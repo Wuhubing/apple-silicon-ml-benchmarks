@@ -48,19 +48,7 @@ python analyze_results.py
 python run_benchmarks.py
 ```
 
-## Project Structure
-```
-apple-silicon-ml-benchmarks/
-├── src/
-│   ├── benchmark.py          # Core benchmarking functionality
-│   ├── benchmark_suite.py    # Complete benchmark suite
-│   ├── performance_analyzer.py # Performance analysis tools
-│   ├── model_optimizer.py    # Model optimization utilities
-│   └── utils/               # Utility functions
-├── results/                 # Benchmark results
-├── docs/                    # Documentation
-└── tests/                  # Test cases
-```
+
 
 ## Key Features
 
